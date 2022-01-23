@@ -22,12 +22,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](images/screenshotDesktop.png)
-![](images/screenshotMobile.png)
+<img src="images/screenshotMobile.png" alt="Screenshot mobile version" width="300px"/>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/LeoSouzaNunes/qr-code-component-main)
+- Live Site URL: [Demo website](https://leosouzanunes.github.io/qr-code-component-main/)
 
 ## My process
 
